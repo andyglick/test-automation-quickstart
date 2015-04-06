@@ -2,9 +2,10 @@
 
 #test-automation-quickstart
 
-    Was having trouble with the code as fetched from github, it wouldn't build successfully. Replaced the Firefox selenium driver with the phantomjs driver.
-    That was able to run all of the tests successfully. Upgraded each of the jars and plugins to their current released version. Hooked the build up to
-    travis-ci.
+    Was having trouble with the code as fetched from github, it wouldn't build successfully. Replaced
+    the Firefox selenium driver with the phantomjs driver. That was able to run all of the tests
+    successfully. Upgraded each of the jars and plugins to their current released version. Hooked the
+    build up to travis-ci.
 
 Java quickstart project for test automation, covering performance, ui acceptance and api acceptance testing.
 Created with lessons learned from a large number of development projects to provide all commonly required components and concepts.
